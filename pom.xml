@@ -77,7 +77,7 @@
       </repository>
    </repositories>
    <build>
-      <finalName>plugin-netty</finalName>
+      <finalName>netty-plugin</finalName>
       <plugins>
          <plugin>
             <artifactId>maven-compiler-plugin</artifactId>
